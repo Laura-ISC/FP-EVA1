@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_2_DATOS"/>
+        <attribute name="authors" value="Ana y Lau"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 04:52:58 p. m."/>
+        <attribute name="created" value="QW5hIHkgTGF1O0RFU0tUT1AtR0dQR0lIRDsyMDI1LTA4LTI2OzA0OjI1OjEyIHAuIG0uOzMzMDc="/>
+        <attribute name="edited" value="QW5hIHkgTGF1O0RFU0tUT1AtR0dQR0lIRDsyMDI1LTA4LTI2OzA0OjUyOjU4IHAuIG0uOzE7MzQyNQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;LAURA GRANADOS&quot;" newline="True"/>
+            <output expression="1000" newline="True"/>
+            <output expression="52.3" newline="True"/>
+            <output expression="true" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
