@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_5_VARIABLES"/>
+        <attribute name="authors" value="Ana y Lau"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-28 04:48:04 p. m."/>
+        <attribute name="created" value="QW5hIHkgTGF1O0RFU0tUT1AtR0dQR0lIRDsyMDI1LTA4LTI4OzA0OjM5OjQyIHAuIG0uOzMzMTc="/>
+        <attribute name="edited" value="QW5hIHkgTGF1O0RFU0tUT1AtR0dQR0lIRDsyMDI1LTA4LTI4OzA0OjQ4OjA0IHAuIG0uOzE7MzQyMw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nombre" type="String" array="False" size=""/>
+            <declare name="Edad" type="Integer" array="False" size=""/>
+            <assign variable="nombre" expression="&quot;LAURA JOCELYN GRANADOS SAENZ&quot;"/>
+            <assign variable="Edad" expression="18"/>
+            <output expression="nombre" newline="True"/>
+            <output expression="edad" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
